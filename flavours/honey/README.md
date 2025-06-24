@@ -1,0 +1,1 @@
+Honey is the kernel and is also home to the code of salted.
