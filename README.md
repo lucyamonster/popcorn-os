@@ -7,7 +7,7 @@ This is a hobby project and nothing serious so don't expect it to ever do much. 
 - #### honey popcorn
     The kernel that is doomed from the start
 - #### cherry popcorn
-    The language that salted can run and will be used for all userspace apps.
+    The language that caramel can run and will be used for all userspace apps.
 - #### straberry and blueberry caramel popcorn
     Scanner and intermediate parts of caramel. These are designed to be the same for raspberry and blackberry.
 - #### raspberry caramel popcorn
