@@ -14,3 +14,5 @@ I would like to have straberry and blueberry be in a crate that is loaded into r
 So that that code isn't duplicated and only the execute step has to be written twice.
 
 I think that an import can just be handled as running the imported 
+
+I'll copy the rough structure and approaches from [fampiyush/rlox](https://github.com/fampiyush/rlox)
